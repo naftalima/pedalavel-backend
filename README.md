@@ -12,7 +12,7 @@ O Pedalavel usa a engine OSRM para gerar rotas seguras para ciclistas a partir d
 
 ### Como o Pedalavel está organizado?
 
-O app é dividido em duas partes, o front-end, que é composto pelo projeto do XCode desse repositório, e o back-end, que pode ser encontrado em naftalima/pedalavel-backend.
+O app é dividido em duas partes, o front-end, que pode ser encontrado em [iillx/CodeCup2018](https://github.com/iillx/CodeCup18), e o back-end, que é formado pelos arquivos desse repositório.
 
 #### Sobre o Back-End
 
